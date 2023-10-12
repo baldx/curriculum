@@ -21,6 +21,7 @@ This section contains a general overview of topics that you will learn in this l
 - What are breadth-first-search (BFS) and depth-first-search (DFS)?
 - What situations would you want to use BFS?
 - What situations would you want to use DFS instead?
+- This is a test change for this lesson
 
 ### Assignment
 
